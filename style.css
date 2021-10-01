@@ -9,6 +9,17 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover {
+    color:black;
+    background-color: white;
+    border-radius: 10px;
+}
+
 h1 {
     font-size: 3rem;
     color: whitesmoke;
