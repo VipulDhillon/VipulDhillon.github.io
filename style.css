@@ -11,7 +11,7 @@ html {
 }
 
 .nav-link{
-    color: white;
+    color: rgb(255, 230, 119);
 }
 
 .nav-link:hover {
@@ -44,7 +44,7 @@ hr {
 }
 
 .btn-primary {
-    background-color: tomato;
+    background-color: rgb(255, 89, 59);
     border-color: tomato;
 } 
 
